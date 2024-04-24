@@ -1,8 +1,6 @@
-# React + Vite
+This project is a React-based web application that replicates the functionality of Google's Gemini language model. It provides a user-friendly interface for interacting with the Gemini model, allowing users to ask questions and receive informative responses in a conversational manner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search Interface: Mimics the look and feel of Gemini's search bar, enabling users to enter natural language queries.
+Interactive Responses: Displays responses from the Gemini model directly in the UI, fostering an engaging user experience.
